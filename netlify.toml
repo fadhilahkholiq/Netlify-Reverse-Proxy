@@ -6,7 +6,7 @@
   
 [[redirects]]
   from = "/*"
-  to = "https://www4.bestjavporn.com/:splat"
+  to = "https://api.quotable.io/:splat"
   status = 200
   force = true
-  headers = {X-From = "netlify", X-Custom-Token = "my custom token"}
+  headers = {X-From = "netlify", X-Custom-Token = "N"}
